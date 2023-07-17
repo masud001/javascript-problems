@@ -1,3 +1,5 @@
+
+
 console.log(' 👍 Find the missing letter 👍');
 /*
 Find the missing letter.
@@ -26,5 +28,8 @@ function findMissingLetter(letterArray) {
 	return 0;
 }
 
+
+
 let letter = findMissingLetter(['O', 'Q', 'R', 'S']);
 console.log('🚀 ~ file: Find the missing letter.js:33 ~ letter:', letter);
+
