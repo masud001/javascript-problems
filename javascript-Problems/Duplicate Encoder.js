@@ -18,4 +18,5 @@ function duplicateEncode(word) {
 
 	return result;
 }
+
 console.log(duplicateEncode('recede'));
