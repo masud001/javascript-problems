@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3bbc44f-51bb-425d-b5c7-a4c54c38b240" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javaScript-topics/callstack.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javaScript-topics/callstack.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
       <workItem from="1689279248812" duration="81000" />
       <workItem from="1694193949551" duration="1109000" />
       <workItem from="1694196611934" duration="101000" />
+      <workItem from="1708412275981" duration="720000" />
     </task>
     <servers />
   </component>
