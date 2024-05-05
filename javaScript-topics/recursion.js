@@ -21,3 +21,21 @@ function sum2(numbers) {
 }
 
 console.log('recursion sum is : ', sum2([0, 1, 2, 3, 4]));
+
+function isVowel(char) {
+	if (char.length === 1) {
+		return ['a', 'e', 'i', 'o', 'u'].includes(char.toLowerCase());
+	} else {
+		return false;
+	}
+}
+
+function countVowels(str) {
+	if (str.length === 0) {
+		return 0;
+	} else {
+		return isVowel(str[0]) + countVowels(str.slice(1));
+	}
+}
+
+console.log('count vowels : ', countVowels('hello world'));
