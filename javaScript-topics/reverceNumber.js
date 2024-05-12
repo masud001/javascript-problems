@@ -27,16 +27,4 @@ function reverseWord(word) {
 }
 console.log(reverseWord('Ab,c,de!$'));
 console.log(reverseWord('c,b$a'));
-// explain step by step of the above code.
-// 1. convert the word into an array of characters.
-// 2. set the start and end pointer to the first and last index of the array.
-// 3. loop until the start pointer is less than the end pointer.
-// 4. check if the character at the start pointer is a special character or not.
-// 5. if it is a special character then increment the start pointer.
-// 6. check if the character at the end pointer is a special character or not.
-// 7. if it is a special character then decrement the end pointer.
-// 8. if both the characters are not special characters then swap the characters.
-// 9. increment the start pointer and decrement the end pointer.
-// 10. return the array of characters as a string.
-// The time complexity of this code is O(n) where n is the length of the word.
-// The space complexity of this code is O(n) where n is the length of the word.
+
