@@ -1,4 +1,3 @@
-/** @format */
 
 const copyArrayAndManipulates = (array, instruction) => {
 	let output = [];

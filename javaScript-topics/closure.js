@@ -1,4 +1,4 @@
-/** @format */
+
 
 const { functions } = require('lodash');
 
@@ -9,9 +9,7 @@ function a() {
 	};
 }
 
-// console.log(a()(10));
-// let c = a();
-// console.log(c());
+
 
 const functionCreator = () => {
 	var counter = 3;

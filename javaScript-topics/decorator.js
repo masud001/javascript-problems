@@ -1,4 +1,4 @@
-/** @format */
+
 
 const oncify = (fn) => {
 	let called = false;

@@ -1,4 +1,4 @@
-/** @format */
+
 
 // reverse a word. but only the characters and numbers. not the special characters.
 // Example:

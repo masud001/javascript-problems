@@ -1,4 +1,3 @@
-/** @format */
 
 console.log('this is recursion function');
 
